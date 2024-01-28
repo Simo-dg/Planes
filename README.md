@@ -16,7 +16,7 @@ Follow these steps to set up and run the project:
 
 - `script.py`: The main Python script.
 - `requirements.txt`: A file listing the project's dependencies and their versions.
-- 'Airports.db': A database containing airports' coordinates
+- `Airports.db`: A database containing airports' coordinates
 
 ## How the Script Works
 
