@@ -1,4 +1,8 @@
 # Planes
+## About
+This project is intended for educational purposes. It serves as a practical application of various Python libraries including Selenium for web scraping, BeautifulSoup for parsing HTML, and Folium for data visualization. The project demonstrates how to extract data from websites, manipulate and process the data, and visualize the results in a meaningful way.
+
+Please note that this project should be used responsibly and in accordance with the terms of service of the websites being scraped. Always respect the rules and regulations of web scraping to ensure ethical use of this project.
 This Python script is designed to scrape flight data from a website and create an interactive map to visualize flight routes. The script uses Selenium for web scraping and BeautifulSoup for parsing HTML. It also uses Folium to create interactive maps.
 ## Getting Started
 
