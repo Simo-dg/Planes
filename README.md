@@ -1,4 +1,5 @@
 # Planes
+✈️ 
 ## About
 This project is intended for educational purposes. It serves as a practical application of various Python libraries including Selenium for web scraping, BeautifulSoup for parsing HTML, and Folium for data visualization. The project demonstrates how to extract data from websites, manipulate and process the data, and visualize the results in a meaningful way.
 
