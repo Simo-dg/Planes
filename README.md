@@ -41,9 +41,6 @@ The flight data, including tail numbers, aircraft types, origins, and destinatio
 Using Folium, the script creates an interactive map (mappa_voli.html). It plots flight routes on the map, with different aircraft types represented by marker clusters. Each marker on the map represents an aircraft's destination airport, and clicking on a marker displays information about the aircraft.
 
 ## Data Sources
-The airport data used in this project is sourced from the Sì, è una buona pratica citare la fonte dei dati che stai utilizzando nel tuo progetto. Puoi aggiungere queste informazioni nella sezione "Credits" o "Data Sources" del tuo README. Ecco un esempio di come potresti farlo:
-
-## Data Sources
 
 The airport data used in this project is sourced from the [Airports Code Database](https://public.opendatasoft.com/explore/dataset/airports-code/information/) provided by OpenDataSoft. 
 Please ensure that any use of the data adheres to the terms of the license and credit the original source appropriately. 
